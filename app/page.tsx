@@ -331,7 +331,7 @@ export default function Home() {
             Hi, I am Olamide
           </h1>
 
-          <p className="mb-9 max-w-[760px] text-[16px] leading-[1.6] font-light tracking-[-0.01em] text-[#4a4a4a] sm:text-[18px] md:mb-12 md:text-[24px]">
+          <p className="mb-9 max-w-[760px] text-[16px] leading-[1.6] font-normal tracking-[-0.01em] text-[#2f2f2f] sm:text-[18px] md:mb-12 md:text-[24px] md:font-light md:text-[#4a4a4a]">
             I&apos;m a student and engineer in Chicago and I care about thoughtful innovation, steady growth, and doing
             the work well. Ideas matter, but finishing them matters more.
           </p>
