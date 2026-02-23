@@ -528,7 +528,7 @@ export default function Home() {
             <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent" />
 
             <a
-              href="/Olamide Iyelolu resume.pdf"
+              href="/Olamide_Iyelolu_rèsume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="absolute bottom-[18%] left-[8%] flex h-[44px] w-[120px] items-center justify-center overflow-hidden rounded-xl border border-blue-400/50 bg-blue-500/20 text-sm font-bold tracking-wider text-blue-100 backdrop-blur-sm transition-all hover:scale-105 sm:bottom-[22%] sm:left-[12%] sm:h-[50px] sm:w-[140px] sm:text-lg md:bottom-[25%] md:left-[20%] md:h-[70px] md:w-[220px] md:text-2xl"
