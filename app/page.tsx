@@ -466,7 +466,7 @@ export default function Home() {
 
         <section>
           <footer className="relative left-1/2 w-screen -translate-x-1/2 bg-black px-4 pb-16 pt-16 text-center text-white sm:px-6 md:pb-48 md:pt-24">
-            <h2 className="mb-10 text-[22px] font-medium sm:text-[25px]">Don&apos;t be shy, reach out to me!</h2>
+            <h2 className="mb-10 text-[22px] font-medium sm:text-[25px]">Don't hesitate, reach out to me!</h2>
 
             <div className="flex justify-center gap-4 sm:gap-6">
               {[
